@@ -20,5 +20,7 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(number){
   var x = []
-  do ()
+  do {
+    
+  } while ()
 }
