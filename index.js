@@ -1,4 +1,4 @@
 function theBeatlesPlay(musicians, instruments){
   var bands = {}
-  for (i=0; )
+  for (i = 0; musicians.length )
 }
